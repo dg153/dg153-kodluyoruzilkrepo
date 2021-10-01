@@ -1,4 +1,4 @@
-# dg153-kodluyoruzilkrepo
+# DogaCan-kodluyoruzilkrepo
 
 Kodluyoruz Ankara C# ile .NET Core Bootcamp kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 

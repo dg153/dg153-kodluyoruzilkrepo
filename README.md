@@ -2,6 +2,8 @@
 
 Kodluyoruz Ankara C# ile .NET Core Bootcamp kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![](Git_Egitim.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın.

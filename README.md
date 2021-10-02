@@ -1,6 +1,6 @@
 # DogaCan-kodluyoruzilkrepo
 
-Kodluyoruz Ankara C# ile .NET Core Bootcamp kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Kodluyoruz Ankara C# ile .NET Core Bootcamp kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. Ödevler "HW" başlığı altında bu repoda bulunur.
 
 ![](Git_Egitim.png)
 

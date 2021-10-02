@@ -1,0 +1,16 @@
+C:\Users\cando\source\repos\HW1\HW1\obj\Debug\net5.0\HW1.csproj.AssemblyReference.cache
+C:\Users\cando\source\repos\HW1\HW1\obj\Debug\net5.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cando\source\repos\HW1\HW1\obj\Debug\net5.0\HW1.AssemblyInfoInputs.cache
+C:\Users\cando\source\repos\HW1\HW1\obj\Debug\net5.0\HW1.AssemblyInfo.cs
+C:\Users\cando\source\repos\HW1\HW1\obj\Debug\net5.0\HW1.csproj.CoreCompileInputs.cache
+C:\Users\cando\source\repos\HW1\HW1\bin\Debug\net5.0\HW1.exe
+C:\Users\cando\source\repos\HW1\HW1\bin\Debug\net5.0\HW1.deps.json
+C:\Users\cando\source\repos\HW1\HW1\bin\Debug\net5.0\HW1.runtimeconfig.json
+C:\Users\cando\source\repos\HW1\HW1\bin\Debug\net5.0\HW1.runtimeconfig.dev.json
+C:\Users\cando\source\repos\HW1\HW1\bin\Debug\net5.0\HW1.dll
+C:\Users\cando\source\repos\HW1\HW1\bin\Debug\net5.0\ref\HW1.dll
+C:\Users\cando\source\repos\HW1\HW1\bin\Debug\net5.0\HW1.pdb
+C:\Users\cando\source\repos\HW1\HW1\obj\Debug\net5.0\HW1.dll
+C:\Users\cando\source\repos\HW1\HW1\obj\Debug\net5.0\ref\HW1.dll
+C:\Users\cando\source\repos\HW1\HW1\obj\Debug\net5.0\HW1.pdb
+C:\Users\cando\source\repos\HW1\HW1\obj\Debug\net5.0\HW1.genruntimeconfig.cache
